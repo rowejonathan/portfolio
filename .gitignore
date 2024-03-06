@@ -1,0 +1,7 @@
+# Misc
+node_modules/
+.angular/
+
+# Mac OSX Finder files.
+**/.DS_Store
+.DS_Store
